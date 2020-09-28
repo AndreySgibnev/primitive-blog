@@ -9,7 +9,7 @@ The following steps were completed:
 02.Create a Post model to work with blog posts. 
 03.Admin panel for the blog. 
 04.Configure URL routes. 
-05.views — BlogListView for displaying blog Entries. 
+05.Views — BlogListView for displaying blog entries. 
 06.Creating a template. 
 07.Connecting static files in Django. 
 08.Creating a separate DetailView page for the article. 
